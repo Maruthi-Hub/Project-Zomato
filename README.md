@@ -1,10 +1,11 @@
-🍴 Zomato Sales Analysis Project
+ Zomato Sales Analysis Project
 
 This project analyzes Zomato data using Excel, Power BI, Tableau, and SQL.
-It explores restaurant performance, cuisines, price buckets, and ratings across countries and cities.
+It ![Uploading 20250801_1901_Styled Delivery Icon_remix_01k1jx17d5fxbryy9w7yeb1z4b.png…]()
+explores restaurant performance, cuisines, price buckets, and ratings across countries and cities.
 Dashboards are built to show yearly trends, top cuisines, and key business KPIs.
 
-📂 Files included: Excel, Power BI, Tableau, and SQL scripts.
+ Files included: Excel, Power BI, Tableau, and SQL scripts.
 
 ## 📊 Dashboards & Reports
 - **Excel**: Data cleaning and summary reports  
